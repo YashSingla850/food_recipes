@@ -1,0 +1,36 @@
+.jumbotron {
+  /* background-color: #ff3f34; */
+  background-color: gray;
+  color: #fff;
+  /* padding: 100px, 0; */
+  height: 30vh;
+}
+.input {
+  /* margin-bottom: 1rem!important; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 23%;
+}
+.heading {
+  /* justify-content: center;  */
+  display: flex;
+  /* align-items: center; */
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+.card {
+  width: 18rem;
+  margin: 15px;
+  background-color: rgb(241, 236, 236);
+  /* display: flex;
+  justify-content: space-around; */
+}
+.cusine {
+  font-size: 18px;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: rgb(104, 73, 17);
+  margin-top: 20px;
+}
