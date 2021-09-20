@@ -8,7 +8,7 @@ import Axios from "axios";
 // 3fba57ab2570e09d04ff9d41043700fc	—apikey
 
 const Work = () => {
-  const [search, setSearch] = useState("orange");
+  const [search, setSearch] = useState();
   const [dish, setDish] = useState([]);
 
   const getDish = async () => {
